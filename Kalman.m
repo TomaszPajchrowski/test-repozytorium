@@ -4,6 +4,7 @@ t_end = 10;
 t = 0:dt:t_end;
  
 % Odchylenie standardowe pomiaru. Dodatek po utworzeniu repozytorium 
+% Dodatek po utworzeniu rpozytorium na dysku lokalnym.
 std_dev = 10;
  
 % Model stanowy
