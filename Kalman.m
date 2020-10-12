@@ -3,7 +3,7 @@ dt = 0.1;
 t_end = 10;
 t = 0:dt:t_end;
  
-% Odchylenie standardowe pomiaru
+% Odchylenie standardowe pomiaru. Dodatek po utworzeniu repozytorium 
 std_dev = 10;
  
 % Model stanowy
